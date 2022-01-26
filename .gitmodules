@@ -1,4 +1,4 @@
-[submodule "heater"]
-	path = heater
+[submodule "heater/heater"]
+	path = heater/heater
 	url = git@github.com:apollo-lhc/FPGA_heater.git
 	branch = master
